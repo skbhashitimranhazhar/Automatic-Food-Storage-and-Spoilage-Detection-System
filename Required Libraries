@@ -1,0 +1,9 @@
+ESP8266 WiFi Library - https://github.com/Hieromon/ESP8266.git
+
+DHT (Humidity and Temperature) Sensor - https://github.com/adafruit/DHT-sensor-library.git
+
+LiquidCrystal - Download from the Arduino Library (if needed)
+
+Servo.h - Download from the Arduino Library (if needed)
+
+ThingSpeak - Download from the Arduino Library (if needed)
